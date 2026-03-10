@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NetSQLAPIActions")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c883848841fce989fd3aedea328647709abdd3eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("NetSQLAPIActions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NetSQLAPIActions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
