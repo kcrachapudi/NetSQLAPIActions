@@ -51,7 +51,12 @@ app.MapGet("/weatherforecast", () =>
 
 app.MapGet("/test", () =>
 {
-    return "Proceeding to Auto Deploy from CICD with WatchTower"; 
+    return "Test Success"; 
+});
+
+app.MapGet("/health", () =>
+{
+    return Results.Ok("Healthy"); 
 });
 
 app.Run();
